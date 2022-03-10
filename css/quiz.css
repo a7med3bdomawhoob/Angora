@@ -1,0 +1,333 @@
+.home
+{
+  
+}
+
+.nav 
+{
+    
+}
+
+
+.home a
+{
+    list-style-type: none;
+
+}
+
+
+.anchora i
+{
+   color: red;
+}
+
+li a:hover
+{
+    color: red;
+}
+
+
+.navicon i
+{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hit
+{
+    height: 6px;
+}
+
+.bg-red
+{
+    background-color: red;
+}
+
+.clor-gray
+
+{
+    color:#999;
+}
+.clor-gray
+{
+    color: black;
+}
+
+.line
+{
+    height: 1px;
+    width: 40px;
+    transition-duration: 0.5s;
+   
+    background-color: black;
+}
+
+.heit
+{
+    height: 50px;
+    width: 80px;
+   
+   
+}
+.hit2
+{
+    height: 50px;
+    width: 80px;
+}
+.heit:hover  .line
+{
+    width: 80px;
+}
+
+.hit2:hover  .line
+{
+    width: 80px;
+}
+
+
+
+
+
+
+.parent
+{
+    position: relative;
+}
+
+.opc
+{
+    width: 100%;
+    background-color:rgb(255, 0, 0,0.4);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+opacity: 0;
+   
+}
+
+
+.opc .icons
+{
+   
+    height: 100%;
+}
+
+.parent:hover .opc
+{
+    top: 0;
+    bottom: 0;
+ opacity: 1;
+}
+
+.parent img
+{
+    transition-duration: 0.5s;
+    
+}
+
+.parent:hover img
+{
+    transform: scale(1.2);
+    
+} 
+
+
+
+
+
+
+
+
+.coulr
+{
+    color: white;
+   
+}
+
+i
+{
+  
+  
+  color: white;
+}
+
+.hov:hover .textinfo
+{
+    color: red;
+    
+}
+
+.textinfo
+{
+    color: black;
+    transition-duration:0.5s;
+}
+
+
+.w-160
+{
+    width:160px;
+
+}
+
+.round
+{
+    border-radius: 5px;
+    
+}
+
+button
+{
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    background-color: #f25454;
+}
+
+
+.quistion button:hover 
+{
+    background-color:rgb(242, 84, 84,0.8) ;
+
+}
+
+.icona
+{
+    color: tomato;
+}
+
+.displayicon h3
+{
+    transition-duration: 0.5s;
+}
+
+.sol:hover h3
+{
+    color: tomato;
+    transition-duration: 0.2s;
+}
+
+.colraddress
+{
+    color: tomato;
+}
+
+.frm button
+{
+    background-color: tomato;
+    
+}
+
+.footer
+{
+    background-image: url(../images/mission.jpg);
+    background-size: cover;
+    height: 100%;
+} 
+
+
+.w-logo
+{
+    width: 100px;
+}
+
+.cr 
+{
+    color: white;
+}
+
+.but-bord
+{
+    
+    
+    background-color: unset;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+ .no button:hover 
+{
+  color: #f25454;
+  border: 1px solid red;
+}
+
+.nono a
+{
+
+   text-decoration-line: none;
+   color: white;
+}
+
+a
+{
+    transition-duration: 0.5s;
+}
+.nono a:hover
+{
+    color: tomato;
+    transition-duration: 0.5s;
+}
+
+
+.footer .up
+{
+    /* background-color: rgb(242, 84, 84,0.9); */
+    color:rgb(242, 84, 84,0.8) ;
+}
+
+.footer .up:hover
+{
+    color: #f25454;
+    transition-duration: 0.5s;
+}
+
+.het 
+{
+    height: 80px;
+}
+
+
+.fc-white
+{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.zed
+{
+    z-index: 99999;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    
+    color: #fff;
+    background-color: unset;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-item .firsto p 
+{
+    color: white ;
+}
